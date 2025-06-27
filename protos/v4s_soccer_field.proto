@@ -1,4 +1,4 @@
-#VRML_OBJ R2020a utf8
+#VRML_SIM R2020a utf8
 PROTO v4s_soccer_field [  
   field SFString   fieldName   	    "soccer_field"
   field MFString   fieldTexture     ["../textures/soccer-256.jpg"]

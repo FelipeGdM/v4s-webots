@@ -1,4 +1,4 @@
-#VRML_OBJ R2020a utf8
+#VRML_SIM R2020a utf8
 PROTO soccer_referee_supervisor [
   field SFFloat    supervisorRange    10
   field SFInt32    supervisorBaudRate 115200

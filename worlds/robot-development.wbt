@@ -1,4 +1,13 @@
 #VRML_SIM R2021a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+
+EXTERNPROTO "../protos/v4s_robot.proto"
+
+EXTERNPROTO "../protos/soccer_ball.proto"
+
 WorldInfo {
   title "Desenvolvimento"
   coordinateSystem "NUE"
